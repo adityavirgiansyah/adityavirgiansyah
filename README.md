@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityavirgiansyah
 - 👀 I’m interested in Data Science
-- 💞️ I’m looking to job on in data field
+- 💞️ I’m looking to job in data field
 - 📫 How to reach me https://www.linkedin.com/in/aditya-virgiansyah-ab036615b/
 
 <!---
